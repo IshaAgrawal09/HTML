@@ -1,0 +1,66 @@
+body{
+    padding-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    /* border: 2px solid black; */
+    width: 60%;
+    margin: auto;
+}
+#head{
+    width: 100%;
+    height: 30px;
+}
+#head p{
+    font-size: 20px;
+}
+#left{
+    margin: 0;
+    float: left;
+}
+#right{
+    margin: 0;
+    float: right;
+}
+header h1{
+   text-align: center;
+   font-size: 120px;
+   margin: 0;
+   font-weight: 100;
+}
+#first{
+    padding: 15px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+}
+#text1{
+    padding-right: 15px;
+    text-align: justify;
+}
+#image1{
+    padding-top: 20px;
+}
+#second{
+    padding: 15px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+}
+#text2{
+    padding-left: 15px;
+    text-align: justify;
+}
+#image2{
+    padding-top: 20px;
+}
+#third{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    margin: 5px;
+}
+.textarea{
+    text-align: justify;
+    padding: 0 20px;
+}
+
