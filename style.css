@@ -1,0 +1,15 @@
+*{
+    text-align: justify;
+}
+.paragraph{
+    padding: 0 20px;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 0;
+}
+.content{
+    padding: 25px;
+}
